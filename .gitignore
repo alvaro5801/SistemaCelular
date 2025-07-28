@@ -1,0 +1,18 @@
+# Arquivos de dependência e pacotes (NuGet)
+*.nupkg
+**/[Pp]ackages/
+**/[Nn]u[Gg]et.[Cc]onfig
+
+# Pastas de compilação e binários
+**/[Bb]in/
+**/[Oo]bj/
+
+# Arquivos gerados pelo Visual Studio e IDEs
+*.user
+*.suo
+.vs/
+*.sln.docstates
+
+# Arquivos de log e teste
+*.log
+*.trx
